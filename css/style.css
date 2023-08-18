@@ -1,0 +1,13 @@
+@font-face {
+    font-family: "yashFont";
+    src: url(../fonts/Alex.ttf) format("truetype");
+}
+@font-face {
+    font-family: "anilFont";
+    src: url(../fonts/Chunk.otf) format("opentype");
+}
+article{border-bottom: 1px black solid;}
+h1.n1{color: red;
+font-family: "yashFont";}
+h1.n2{color: green;
+font-family: "anilFont";}
